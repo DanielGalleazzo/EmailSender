@@ -17,5 +17,5 @@ Projeto desenvolvido em **Java** com o objetivo de enviar e-mails automaticament
 
 - Java  🔥
 - API SendGrid (envio de e-mail via HTTP)
-- Banco de Dados Relacional (ex: MySQL, PostgreSQL)   💾
+- Banco de Dados Relacional (MySQL Workbench)   💾
 - Postman (para testes de endpoints HTTP) 🟠 
